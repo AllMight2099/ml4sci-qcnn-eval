@@ -1,1 +1,1 @@
-# ml4sci-qcnn-eval
+# ML4Sci QML-HEP Summer of Code Tasks
