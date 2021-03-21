@@ -1,1 +1,1 @@
-# ML4Sci QML-HEP Summer of Code Tasks
+# ML4Sci QML-HEP GSoC Evalutaion Test
